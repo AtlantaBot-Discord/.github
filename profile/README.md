@@ -6,7 +6,7 @@ We are a small organization working on a Discord bot geared towards moderation. 
 
 ## Discord
 
-discord.atlanta.net
+
 
 ## Tech
 
