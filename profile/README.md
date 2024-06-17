@@ -1,4 +1,4 @@
-# Atlanta
+# AtlantaBot
 
 ## Who are we
 
@@ -28,3 +28,4 @@ Yes, just join the discord and apply.
 
 - [@asnalino](https://www.github.com/asnalino)
 - [@xyztoshi](https://www.github.com/xyztoshi)
+- [@NaturGamerYT](https://github.com/naturgameryt)
