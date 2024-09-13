@@ -6,13 +6,14 @@ We are a small organization working on a Discord bot geared towards moderation. 
 
 ## Discord
 
+- [Dashboard](https://dash.atlantabot.com)
 
 
 ## Tech
 
-**Programming languages:** Java-Script, Java
+**Programming languages:** Java-Script,
 
-**Hoster:** soon
+**Hoster:** Datalix
 
 ## FAQ
 
