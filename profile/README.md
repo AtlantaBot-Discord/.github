@@ -26,6 +26,5 @@ Yes, just join the discord and apply.
 
 ## Team
 
-- [@asnalino](https://www.github.com/asnalino)
 - [@xyztoshi](https://www.github.com/xyztoshi)
 - [@NaturGamerYT](https://github.com/naturgameryt)
